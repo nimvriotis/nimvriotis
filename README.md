@@ -70,5 +70,5 @@ I specialize in transforming raw data into clear, actionable insights through da
 
 ## Contact
 
-- LinkedIn: https://linkedin.com/in/nimvriotis
-- Email: nimvriotisg@gmail.com
+LinkedIn: https://linkedin.com/in/nimvriotis  
+Email: nimvriotisg@gmail.com
