@@ -54,17 +54,17 @@ I specialize in transforming raw data into clear, actionable insights through da
 
 ## Projects
 
-### Retail Sales Dashboard (Excel)
-Interactive dashboard analyzing sales performance, KPIs, and regional trends.
+**Retail Sales Dashboard (Excel)**  
+*– Interactive dashboard analyzing sales performance, KPIs, and regional trends*
 
-### FinTech Transactions Analysis (SQL + Power BI)
-End-to-end analysis with star schema modeling and DAX dashboards.
+**FinTech Transactions Analysis (SQL + Power BI)**  
+*– End-to-end analysis with star schema modeling and DAX dashboards*
 
-### SaaS Funnel Analysis (SQL + Power BI)
-Conversion funnel analysis identifying user drop-offs and conversion drivers.
+**SaaS Funnel Analysis (SQL + Power BI)**  
+*– Conversion funnel analysis identifying user drop-offs and conversion drivers*
 
-### Airbnb Pricing Analysis (Python)
-EDA on 50k+ listings to identify key pricing drivers.
+**Airbnb Pricing Analysis (Python)**  
+*– EDA on 50k+ listings to identify key pricing drivers*
 
 ---
 
