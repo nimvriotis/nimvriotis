@@ -14,12 +14,12 @@ I specialize in transforming raw data into clear, actionable insights through da
 ## Technical Skills
 
 ### Excel
-- VBA (Automation, Dynamic Reporting, Simulation, Animation)
-- Power Query (Data Cleaning, Transformation)
-- Power Pivot (Data Modeling, DAX)
 - Pivot Tables & Interactive Dashboards
 - Advanced Formulas
 - Data Visualization
+- VBA (Automation, Dynamic Reporting, Simulation, Animation)
+- Power Query (Data Cleaning, Transformation)
+- Power Pivot (Data Modeling, DAX)
 
 ### SQL
 - SELECT, GROUP BY, Aggregation Functions  
